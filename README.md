@@ -1,1 +1,1 @@
-Card Game Project for Unreal Engine 4
+Card game project for Unreal Engine 4
