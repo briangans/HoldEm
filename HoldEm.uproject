@@ -12,5 +12,9 @@
 			"Name": "SteamVR",
 			"Enabled": false
 		}
+	],
+	"TargetPlatforms": [
+		"LinuxNoEditor",
+		"WindowsNoEditor"
 	]
 }
