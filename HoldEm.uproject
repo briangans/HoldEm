@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.25",
+	"EngineAssociation": "5.5",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -55,6 +55,210 @@
 		},
 		{
 			"Name": "FacialAnimation",
+			"Enabled": false
+		},
+		{
+			"Name": "BlueprintMaterialTextureNodes",
+			"Enabled": true
+		},
+		{
+			"Name": "TextureGraph",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "GameplayStateTree",
+			"Enabled": true
+		},
+		{
+			"Name": "N10XSourceCodeAccess",
+			"Enabled": false
+		},
+		{
+			"Name": "EnvironmentQueryEditor",
+			"Enabled": false
+		},
+		{
+			"Name": "AlembicImporter",
+			"Enabled": false
+		},
+		{
+			"Name": "AndroidFileServer",
+			"Enabled": false
+		},
+		{
+			"Name": "AndroidMoviePlayer",
+			"Enabled": false
+		},
+		{
+			"Name": "AndroidMedia",
+			"Enabled": false
+		},
+		{
+			"Name": "AppleImageUtils",
+			"Enabled": false
+		},
+		{
+			"Name": "AppleMoviePlayer",
+			"Enabled": false
+		},
+		{
+			"Name": "ArchVisCharacter",
+			"Enabled": false
+		},
+		{
+			"Name": "AvfMedia",
+			"Enabled": false
+		},
+		{
+			"Name": "BlendSpaceMotionAnalysis",
+			"Enabled": false
+		},
+		{
+			"Name": "CableComponent",
+			"Enabled": false
+		},
+		{
+			"Name": "ChaosUserDataPT",
+			"Enabled": false
+		},
+		{
+			"Name": "ChaosNiagara",
+			"Enabled": false
+		},
+		{
+			"Name": "ChaosSolverPlugin",
+			"Enabled": false
+		},
+		{
+			"Name": "ChaosCloth",
+			"Enabled": false
+		},
+		{
+			"Name": "ChaosVD",
+			"Enabled": false
+		},
+		{
+			"Name": "Dataflow",
+			"Enabled": false
+		},
+		{
+			"Name": "CharacterAI",
+			"Enabled": false
+		},
+		{
+			"Name": "CLionSourceCodeAccess",
+			"Enabled": false
+		},
+		{
+			"Name": "CodeLiteSourceCodeAccess",
+			"Enabled": false
+		},
+		{
+			"Name": "DatasmithContent",
+			"Enabled": false
+		},
+		{
+			"Name": "GeometryScripting",
+			"Enabled": true
+		},
+		{
+			"Name": "GLTFExporter",
+			"Enabled": false
+		},
+		{
+			"Name": "MediaPlate",
+			"Enabled": false
+		},
+		{
+			"Name": "MediaCompositing",
+			"Enabled": false
+		},
+		{
+			"Name": "ImgMedia",
+			"Enabled": false
+		},
+		{
+			"Name": "IOSDeviceProfileSelector",
+			"Enabled": false
+		},
+		{
+			"Name": "MacGraphicsSwitching",
+			"Enabled": false
+		},
+		{
+			"Name": "MediaPlayerEditor",
+			"Enabled": false
+		},
+		{
+			"Name": "ModularGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "WebMMoviePlayer",
+			"Enabled": false
+		},
+		{
+			"Name": "MsQuic",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux",
+				"Mac"
+			]
+		},
+		{
+			"Name": "NFORDenoise",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux"
+			]
+		},
+		{
+			"Name": "NiagaraSimCaching",
+			"Enabled": false
+		},
+		{
+			"Name": "NNEDenoiser",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux",
+				"Mac"
+			]
+		},
+		{
+			"Name": "PerforceSourceControl",
+			"Enabled": false
+		},
+		{
+			"Name": "PixWinPlugin",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "PlasticSourceControl",
+			"Enabled": false
+		},
+		{
+			"Name": "SpeedTreeImporter",
+			"Enabled": false
+		},
+		{
+			"Name": "WindowsMoviePlayer",
+			"Enabled": false
+		},
+		{
+			"Name": "WmfMedia",
+			"Enabled": false
+		},
+		{
+			"Name": "WorldPartitionHLODUtilities",
 			"Enabled": false
 		}
 	],
